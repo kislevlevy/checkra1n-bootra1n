@@ -46,5 +46,11 @@ How to Jailbreak A7 Devices using checkra1n on bootable USB drive
 - The checkra1n loader will then begin downloading the base system and installing Cydia.
 > It may reboot your device.
 - When finished, the app will close and Cydia will appear on your Home screen.
+Congratulations, jailbreak complete!
 
-### Congratulations, jailbreak complete!
+## Credits
+- Bootra1n repository - [Link](https://github.com/foxlet/bootra1n)
+- Checkra1n - [link](https://checkra.in/)
+- Checkra1n community on reddit - [Link](https://www.reddit.com/r/checkra1n/)
+- Pangu8 -  [Link](https://pangu8.com/)
+- Rufus - [Link](https://rufus.ie/)
