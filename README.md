@@ -54,5 +54,6 @@ Congratulations, jailbreak complete!
 - Checkra1n community on reddit - [Link](https://www.reddit.com/r/checkra1n/)
 - Pangu8 -  [Link](https://pangu8.com/)
 - Rufus - [Link](https://rufus.ie/)
+- Void OS - [Link](https://voidlinux.org/)
 
 ### My Reddit post - [Link](https://www.reddit.com/r/checkra1n/comments/ryx57v/how_to_jailbreak_a7_devices_using_checkra1n/)
