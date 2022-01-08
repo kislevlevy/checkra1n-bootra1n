@@ -13,8 +13,8 @@ How to Jailbreak A7 Devices using checkra1n on bootable USB drive
 ## Step 3 - Write bootra1n to USB:
 - Using Rufus - [Link](https://rufus.ie/).
 - Download Rufus. (I recommend the portable version)
-- press SELECT, open the "bootra1n" ISO file, and press START to flash it to your USB drive.
-> (it will erase your drive!)
+- Press SELECT, open the "bootra1n" ISO file, and press START to flash it to your USB drive.
+> It will erase your drive!
 
 ## Step 4 - Reboot and run checkra1n:
 - Select the flash drive on boot device options on your PC.
@@ -25,7 +25,7 @@ How to Jailbreak A7 Devices using checkra1n on bootable USB drive
 
 ## Step 5 - Jailbreak:
 - Plug your device into your PC. Trust your device if necessary.
-> remove touch id and passcode before entering the setup.
+> Remove touch id and passcode before entering the setup.
 - The checkra1n app should automatically detect your device and firmware type.
 - Click the Start button (using your arrow and enter keys to navigate).
 - Checkra1n will want to put your device into Recovery Mode before proceeding. Click the Next button.
