@@ -8,7 +8,7 @@ How to Jailbreak A7 Devices using checkra1n on bootable USB drive
 - A7 chip up to date device - [Link](https://en.wikipedia.org/wiki/Apple_A7#Products_that_include_the_Apple_A7).
 
 ## Step 2 - Download bootra1n:
-- You can seek the latest version here - [Link](https://pangu8.com/jailbreak/bootra1n/).
+- You can seek the latest version here - [Link](https://github.com/foxlet/bootra1n).
 
 ## Step 3 - Write bootra1n to USB:
 - Using Rufus - [Link](https://rufus.ie/).
@@ -52,7 +52,6 @@ Congratulations, jailbreak complete!
 - Bootra1n repository - [Link](https://github.com/foxlet/bootra1n)
 - Checkra1n - [link](https://checkra.in/)
 - Checkra1n community on reddit - [Link](https://www.reddit.com/r/checkra1n/)
-- Pangu8 -  [Link](https://pangu8.com/)
 - Rufus - [Link](https://rufus.ie/)
 - Void OS - [Link](https://voidlinux.org/)
 
